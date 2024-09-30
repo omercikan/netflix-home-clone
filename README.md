@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 <h1>Netflix Ana Sayfa Klonu</h1>
 
 <p>Bu proje, Netflix'in ana sayfasının basit bir kopyasını oluşturmayı amaçlıyor. Web geliştirme alanında yeni olduğum dönemlerde pratik yapmak için hazırladım. Proje, Netflix'in ana ekranının düzenini ve tasarımını yansıtır.</p>
@@ -16,4 +13,3 @@
     <li>HTML5</li>
     <li>CSS3</li>
 </ul>
->>>>>>> master
