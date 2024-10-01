@@ -12,4 +12,5 @@
     <h3>Teknolojiler:</h3>
     <li>HTML5</li>
     <li>CSS3</li>
+    <li>JAVASCRIPT</li>
 </ul>
